@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: antiquewhite;
+}
+body{
+    background-color: #c58c85;
+}
+img{
+    background-color:#c58c85;
+    display:block;
+    padding:25px;
+    width:315px;
+    height:315px;
+    margin: 0 auto;
+    top:13px;
+}
+#url{
+    display: block;
+padding: 10px;
+margin: 0 auto;
+    top:13px;
+    width: 250px;
+    height: 20px;
+    background-color: #c58c85;
+    border: 3px solid whitesmoke;
+    border-radius: 5px;
+}
+svg{
+    color: black;
+}
